@@ -1,0 +1,11 @@
+﻿  Sort.cpp
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(19,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(26,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(33,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(49,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(70,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(102,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(101,7): warning C4101: 'p': unreferenced local variable
+D:\FII\OOP\4\lab4\lab4\Sort.cpp(100,6): warning C4101: 'i': unreferenced local variable
+LINK : fatal error LNK1168: cannot open D:\FII\OOP\4\lab4\x64\Debug\lab4.exe for writing
