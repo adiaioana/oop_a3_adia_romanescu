@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(18,10): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(18,19): warning C4474: 'scanf_s' : too many arguments passed for format string
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(18,19): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'double'
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): message : this argument is used as a buffer size
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'double'
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): warning C4477: 'scanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 4 has type 'double'
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): message : placeholders and their parameters expect 5 variadic arguments, but 4 were provided
+D:\FII\OOP\lab2_2\lab2_2\main.cpp(21,11): message : the missing variadic argument 5 is required by format string '%f'
+  lab2_2.vcxproj -> D:\FII\OOP\lab2_2\x64\Debug\lab2_2.exe
