@@ -1,0 +1,32 @@
+#include "DoubleLinkedList.h"
+#include <iostream>
+void printDouble(const double& v) {
+	std::cout << v << ",";
+}
+
+void printInt(const int& v) {
+	std::cout << v << ",";
+}
+int main()
+{
+	DoubleLinkedList<double> d;
+	d.PushOnFront(1.5); d.PrintAll(printDouble);
+
+	std::cout << std::endl;
+	d.PushOnFront(2.5); d.PushOnBack(3.5); d.PrintAll(printDouble);
+
+	std::cout << std::endl;
+	while (d.GetCount()) {
+		std::cout << d.PopFromBack() << ",";
+	}
+	std::cout << std::endl;
+	DoubleLinkedList<int> i;
+	for (int index = 0; index < 10; index++) {
+		if (index % 2 == 0)
+			i.PushOnBack(index);
+		else
+			i.PushOnFront(index);
+	}
+	i.PrintAll(printInt);
+	return 0;
+}
