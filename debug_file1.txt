@@ -1,0 +1,78 @@
+CODE 1: Array constructed: simple
+CODE 7: Adding 4
+CODE 7: Adding 2
+CODE 8: Adding 3 on 1
+CODE 17: Getting begin it 
+CODE 18: Getting end it 
+CODE 16: Printing Array
+CODE 12: Sorting Array : simple
+CODE 16: Printing Array
+CODE 19: Binary Search : simple
+CODE 22: Find: simple
+CODE 1: Array constructed: simple
+CODE 8: Adding 6 on 0
+CODE 7: Adding 9
+CODE 7: Adding -974
+CODE 7: Adding -4829
+CODE 3: Array constructed: another array
+CODE 15: Getting capacity= 4
+CODE 14: Getting size= 4
+CODE 6: Accessing 0
+CODE 14: Getting size= 4
+CODE 6: Accessing 1
+CODE 14: Getting size= 4
+CODE 6: Accessing 2
+CODE 14: Getting size= 4
+CODE 6: Accessing 3
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 15: Getting capacity= 4
+CODE 11: Copying another Array 
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 6: Accessing 0
+CODE 14: Getting size= 4
+CODE 6: Accessing 1
+CODE 14: Getting size= 4
+CODE 6: Accessing 2
+CODE 14: Getting size= 4
+CODE 6: Accessing 3
+CODE 14: Getting size= 4
+CODE 16: Printing Array
+CODE 12: Sorting Array : simple
+CODE 16: Printing Array
+CODE 3: Array constructed: another array
+CODE 15: Getting capacity= 4
+CODE 14: Getting size= 4
+CODE 6: Accessing 0
+CODE 14: Getting size= 4
+CODE 6: Accessing 1
+CODE 14: Getting size= 4
+CODE 6: Accessing 2
+CODE 14: Getting size= 4
+CODE 6: Accessing 3
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 15: Getting capacity= 4
+CODE 9: Adding another Array on 2
+CODE 14: Getting size= 4
+CODE 5: Double Alloc
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 6: Accessing 0
+CODE 14: Getting size= 4
+CODE 6: Accessing 1
+CODE 14: Getting size= 4
+CODE 6: Accessing 2
+CODE 14: Getting size= 4
+CODE 6: Accessing 3
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 14: Getting size= 4
+CODE 4: Array deconstructed: simple
+CODE 16: Printing Array
+CODE 4: Array deconstructed: simple
+CODE 4: Array deconstructed: simple
+CODE 4: Array deconstructed: simple
